@@ -132,3 +132,7 @@ body {
 	height: 30px;
 
 }
+.sticky-top{
+	position: fixed !important;
+  	top: 0 !important;
+}
