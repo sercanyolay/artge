@@ -44,7 +44,7 @@ body {
 }
 
 #plant-2 {
-	background-image: url(camer-tripod.png);
+	background-image: url(images/camera.png);
 	width: 300px;
 	height: 320px;
 	bottom: -100px;
@@ -120,8 +120,8 @@ body {
 	box-shadow: inset 6px 3px 10px rgba(0, 0, 0, 0.4);
 	border-top-left-radius: inherit;
 	border-top-right-radius: inherit;
-	border: 20px solid #4a4946;
-	border-bottom: 50px solid #4a4946;
+	border: 15px solid #dee2e6;
+	border-bottom: 50px solid #dee2e6;
 	border-bottom-left-radius: inherit;
 	border-bottom-right-radius: inherit;
 	z-index: 0;
