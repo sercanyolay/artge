@@ -119,7 +119,6 @@ a,a:hover{
 /* ================================================== */
 .logo-main{
 	height: 45px;
-	background-color: black;
 }
 header {
 	width: 100%;
@@ -6919,10 +6918,10 @@ a.img-icon-zoom {
 	padding-left: 0px;
 	padding-right: 30px;
 }
-.widget {
+/* .widget {
 	margin-bottom: 30px;
 	padding-bottom: 30px;
-}
+} */
 .widget h4{
 	font-size: 18px;
 	margin-top:0;
@@ -10431,7 +10430,7 @@ a, img {
 		margin-bottom: 30px;
 	}
 	header div#logo img {
-		max-width: 200px;
+		max-width: 50px;
 		height: auto;
 	}
 	

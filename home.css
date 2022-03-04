@@ -11,7 +11,11 @@ body {
 	justify-content: center;
 	background: #bd979f;
 }
-
+.cursive-home-text{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	color: #599e15;
+}
 .scene {
 	width: 100%;
 	position: relative;
