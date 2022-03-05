@@ -35,7 +35,7 @@
 
 
 #plant-2 {
-	background-image: url(/images/camera.png);
+	background-image: url(../images/camera.png);
     width: 300px;
     height: 260px;
     bottom: -64px;
@@ -44,7 +44,7 @@
 
 
 #books {
-	background-image: url(/images/blackbody.png);
+	background-image: url(../images/blackbody.png);
     width: 200px;
     height: 254px;
     bottom: -105px;
@@ -79,7 +79,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background-image: url(/images/gallery/facecapt-1.gif);
+    background-image: url(../images/gallery/facecapt-1.gif);
     background-position: center center;
     background-size: auto 100%;
     background-repeat: no-repeat;
