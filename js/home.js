@@ -3,7 +3,6 @@ const images = [
 	"images/gallery/facecapt-demo-2.gif",
 	"images/gallery/facecapt-1.gif",
 	"images/gallery/gudumlu-mimikleme.gif",
-	"images/gallery/lip-demo.gif",
 	"images/gallery/facecapt-demo-tramvay.gif"
 ];
 
