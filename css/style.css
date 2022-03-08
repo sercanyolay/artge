@@ -818,12 +818,12 @@ footer {
 }
 
 footer.footer-light{
-	background:#F5F9FD;
-	color:#8492a6;
+	background-image: linear-gradient(#f4f7e1,#8bc771);
+	color:#000;
 }
 
 footer.footer-light a{
-	color:#8492a6;
+	color:#000;
 }
 
 footer.footer-black{
