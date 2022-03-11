@@ -818,7 +818,7 @@ footer {
 }
 
 footer.footer-light{
-	background-image: linear-gradient(#f4f7e1,#8bc771);
+	background-image: linear-gradient(#8bc771,#f4f7e1);
 	color:#000;
 }
 

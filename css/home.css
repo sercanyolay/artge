@@ -97,6 +97,9 @@
 .green-gradient{
 	background-image: linear-gradient(#f4f7e1,#8bc771);
 }
+.home-footer{
+	background-image: linear-gradient(#f4f7e1,#8bc771) !important;
+}
 .green-bg-katalog{
 	background-color: #f4f7e1 !important;
 }
