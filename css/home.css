@@ -1,7 +1,7 @@
 
 .olive-icon{
-	height: 75px;
-    margin-left: 40px;
+	height: 60px;
+    margin-left: 25px;
 }
 .banner-home{
 	/* background-color: #f4f7e1; */
@@ -11,7 +11,7 @@
 
 .cursive-home-text{
 	font-family: 'Dancing Script', cursive;
-	font-size: 50px;
+	font-size: 43px;
 	color: #599e15;
 }
 .scene {
@@ -117,7 +117,7 @@
   
   .btn-gallery img {
 	max-height: 300px;
-	margin-top: 30px !important;
+	margin-top: 60px !important;
   }
 
 .facebox-img img{
@@ -176,6 +176,22 @@
 .height-full{
 	height: 100%;
 }
+.text-align-initial{
+	text-align: initial;
+}
+.text-align-left{
+	text-align: end;
+}
+.product-subtitle{
+	color: #35404e;
+    font-weight: 700;
+}
+.footer-left{
+	text-align: end;
+}
+.footer-h5-top-align{
+	margin-top: 40px !important;
+}
 @media (max-width: 1200px) { 
     #blackbody {
 		display: none;
@@ -206,6 +222,12 @@
 	.scene {
 		margin-top: 40px;
 	}
+	.footer-left{
+		text-align: start;
+	}
+	.footer-h5-top-align{
+		margin-top: 20px !important;
+	}
 }
 @media  (max-width: 600px) { 
     .banner-home{
@@ -218,5 +240,11 @@
 	}
 	.scene {
 		margin-top: 40px;
+	}
+	.footer-left{
+		text-align: start;
+	}
+	.footer-h5-top-align{
+		margin-top: 20px !important;
 	}
 }
